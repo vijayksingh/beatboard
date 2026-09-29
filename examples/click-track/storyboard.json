@@ -1,0 +1,6 @@
+{
+  "shots": [
+    { "id": "intro", "bars": [1, 4], "title": "The drums", "picture": "A dot for every hat", "sync": "Dots land on the hats" },
+    { "id": "bass", "bars": [5, 8], "title": "The bass comes in", "picture": "Everything jumps on bar 5", "sync": "The splice is the jump" }
+  ]
+}

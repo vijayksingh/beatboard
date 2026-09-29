@@ -1,0 +1,13 @@
+{
+  "$description": "Authored. The cut, as runs of song bars played in order; every splice is on a bar line.",
+  "maxSeconds": 30,
+  "gainDb": -6,
+  "master": { "lufs": -14, "ceilingDb": -1 },
+  "crossfadeMs": 8,
+  "tailFadeMs": 300,
+  "tailSeconds": 1.0,
+  "pieces": [
+    { "bars": [1, 4], "why": "the drums alone" },
+    { "bars": [9, 12], "why": "straight into the bass" }
+  ]
+}

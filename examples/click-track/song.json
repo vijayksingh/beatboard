@@ -1,0 +1,12 @@
+{
+  "$description": "Authored. A synthetic track made by make_track.py: 128 BPM, a half-second pickup, drums built up two bars at a time, a bassline from bar 9.",
+  "title": "Click track",
+  "source": "make_track.py",
+  "sections": [
+    { "id": "kick", "bars": [1, 2], "what": "The kick alone" },
+    { "id": "hats", "bars": [3, 4], "what": "Hats on the eighths" },
+    { "id": "snare", "bars": [5, 6], "what": "The snare on 2 and 4" },
+    { "id": "sixteenths", "bars": [7, 8], "what": "Hats on the sixteenths" },
+    { "id": "drums-and-bass", "bars": [9, 16], "what": "The same drums with a bassline" }
+  ]
+}

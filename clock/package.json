@@ -1,0 +1,9 @@
+{
+  "name": "beatboard-clock",
+  "version": "0.1.0",
+  "description": "Musical time for a picture: turn bar, beat and sixteenth into frames from a beatboard cues file, read where a frame sits in the music, and read the edit's meters.",
+  "license": "MIT",
+  "type": "module",
+  "exports": { ".": "./src/index.ts" },
+  "files": ["src"]
+}

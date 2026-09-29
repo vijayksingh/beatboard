@@ -1,0 +1,6 @@
+{
+  "$description": "Authored. Sounds the picture answers one by one.",
+  "events": [
+    { "name": "hats", "bars": [3, 4], "band": [6000, 11000], "part": "percussive", "why": "a dot for every hat" }
+  ]
+}
